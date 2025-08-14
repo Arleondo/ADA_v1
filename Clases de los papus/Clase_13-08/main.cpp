@@ -3,36 +3,40 @@
 using namespace std;
 
 
-struct Vector{
-
-    int * Vector=nullptr;
-    int Contador = 0;
-    int Maximo = 0;
-
-public:
+class Vector {
+    int * Vectorsito;
+    int Contador;
+    int Maximo;
+    int Aumento;
 
     void Resize(){
-        const int Aumento = 5;
         int *TempVec= nullptr;
         TempVec = new int[Maximo+Aumento];
 
-        for (int i = 0;i<Maximo;i++){
-            TempVec[i] = Vector[i];
+        for (int i = 0;i<Contador;i++){
+            TempVec[i] = Vectorsito[i];
         }
-        delete [] Vector;
-        Vector = TempVec;
+        delete [] Vectorsito;
+        Vectorsito = TempVec;
+        Maximo += Aumento;
     }
+
+public:
+
+    Vector(int grow = 10):Vectorsito(nullptr),Contador(0),Maximo(0),Aumento(grow) {};
+
+    ~Vector() {
+        delete[] Vectorsito;
+    }
+
 
     void Insertar(int elemento){
         if (Contador==Maximo) Resize();
 
-        Vector[Contador++]=elemento;
+        Vectorsito[Contador++]=elemento;
     };
 
 };
-
-
-
 
 int main() {
     Vector waza;

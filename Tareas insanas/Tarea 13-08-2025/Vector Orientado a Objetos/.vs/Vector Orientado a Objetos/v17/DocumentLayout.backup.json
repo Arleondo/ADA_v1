@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Orientado a Objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F085FE9-1AC5-4FC9-9FC6-CFF65F5A36F8}|Vector Orientado a Objetos\\Vector Orientado a Objetos.vcxproj|D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Orientado a Objetos\\Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F085FE9-1AC5-4FC9-9FC6-CFF65F5A36F8}|Vector Orientado a Objetos\\Vector Orientado a Objetos.vcxproj|solutionrelative:Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector Orientado a Objetos.cpp",
+              "DocumentMoniker": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Orientado a Objetos\\Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp",
+              "RelativeDocumentMoniker": "Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp",
+              "ToolTip": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Orientado a Objetos\\Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp",
+              "RelativeToolTip": "Vector Orientado a Objetos\\Vector Orientado a Objetos.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T04:17:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

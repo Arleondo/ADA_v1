@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 55,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Vector Modular\\Vector Modular.cpp",
               "ToolTip": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Modular\\Vector Modular\\Vector Modular.cpp",
               "RelativeToolTip": "Vector Modular\\Vector Modular.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-14T00:41:08.215Z",
               "EditorCaption": ""
