@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D010FE7-B286-48CF-963A-CE16DFDB4AA5}|Vector Template\\Vector Template.vcxproj|D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Template\\Vector Template\\Vector Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D010FE7-B286-48CF-963A-CE16DFDB4AA5}|Vector Template\\Vector Template.vcxproj|solutionrelative:Vector Template\\Vector Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector Template.cpp",
+              "DocumentMoniker": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Template\\Vector Template\\Vector Template.cpp",
+              "RelativeDocumentMoniker": "Vector Template\\Vector Template.cpp",
+              "ToolTip": "D:\\ADA_v1\\Tareas insanas\\Tarea 13-08-2025\\Vector Template\\Vector Template\\Vector Template.cpp",
+              "RelativeToolTip": "Vector Template\\Vector Template.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T04:23:59.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
