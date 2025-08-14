@@ -1,0 +1,3 @@
+D:/ADA_v1/Clases de los papus/Clase_13-08/cmake-build-debug/CMakeFiles/Clase_13_08.dir
+D:/ADA_v1/Clases de los papus/Clase_13-08/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ADA_v1/Clases de los papus/Clase_13-08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
