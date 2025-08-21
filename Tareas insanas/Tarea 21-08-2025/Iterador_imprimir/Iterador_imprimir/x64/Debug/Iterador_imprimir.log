@@ -1,0 +1,3 @@
+﻿  Iterador_imprimir.cpp
+D:\ADA_v1\Tareas insanas\Tarea 21-08-2025\Iterador_imprimir\Iterador_imprimir\Iterador_imprimir.cpp(41,15): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Iterador_imprimir.vcxproj -> D:\ADA_v1\Tareas insanas\Tarea 21-08-2025\Iterador_imprimir\x64\Debug\Iterador_imprimir.exe
